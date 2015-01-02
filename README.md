@@ -1,0 +1,4 @@
+irssi
+=====
+
+irssi scripts
